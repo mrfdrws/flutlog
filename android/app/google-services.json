@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "573424300597",
+    "project_id": "myflutt-6b12d",
+    "storage_bucket": "myflutt-6b12d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573424300597:android:5d6eeec7ed641443fbf77c",
+        "android_client_info": {
+          "package_name": "net.lebah.myflutt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573424300597-sflehmc4n2l4sunfdbdlgsc932anos9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFmLnophLkoP8G-lwGMlZw9sEDwRRBKDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573424300597-sflehmc4n2l4sunfdbdlgsc932anos9j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
